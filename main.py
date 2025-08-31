@@ -1,8 +1,17 @@
-def main():
-    print("Hello from pullrequest-class! i am shivani ")
 
 
-if __name__ == "__main__":
-    main()
 
+def subtract(a,b):
+    return a-b 
+
+
+def test(a,b):
+    return a*b
+
+
+def slow(str):
+    return "Slow Down"
+
+def fast(str):
+    return "Fasten Up"
 
